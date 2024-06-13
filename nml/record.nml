@@ -1,0 +1,5 @@
+&RECORD
+	initial_record = 1
+	record_step    = 1
+&END
+

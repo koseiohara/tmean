@@ -1,0 +1,6 @@
+&TDEF
+	hourstep = 6
+	year_ini = 1949
+	year_fin = 2022
+&END
+

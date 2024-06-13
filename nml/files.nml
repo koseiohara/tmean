@@ -1,0 +1,5 @@
+&FILES
+	input_fname  = '/mnt/hail8/kosei/JRA3Q/DJF/JRA3Q_1949_2022/JRA3Q_PRMSL_1949_2022_DJF.bin'
+	output_fname = '../output/halfmonthly_PRMSL.grd'
+&END
+

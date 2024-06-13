@@ -1,0 +1,4 @@
+&TSCALE
+	timescale = 'halfmonthly'
+&END
+
